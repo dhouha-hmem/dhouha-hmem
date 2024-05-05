@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dhouha-hmem
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning C and python
+- 👀 I’m interested in AI and Data Science
 - 📫 How to reach me dhouha.hmem@esprit.tn
 
 <!---
